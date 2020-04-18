@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\bin\Debug\netcoreapp3.1\CleanArch.Core.deps.json
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\bin\Debug\netcoreapp3.1\CleanArch.Core.dll
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\bin\Debug\netcoreapp3.1\CleanArch.Core.pdb
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\obj\Debug\netcoreapp3.1\CleanArch.Core.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\obj\Debug\netcoreapp3.1\CleanArch.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\obj\Debug\netcoreapp3.1\CleanArch.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\obj\Debug\netcoreapp3.1\CleanArch.Core.csproj.CopyComplete
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\obj\Debug\netcoreapp3.1\CleanArch.Core.dll
+C:\Users\ASUS\source\repos\CleanArch\CleanArch.Core\obj\Debug\netcoreapp3.1\CleanArch.Core.pdb

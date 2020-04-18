@@ -1,0 +1,10 @@
+﻿@model IEnumerable<CleanArch.Application.ViewModels.CourseViewModel>
+
+    <div class="container" body-content>
+        @foreach (var course in Model)
+        {
+        <div style="display: block">
+            @course.Name:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; @course.ImagUrl,
+        </div>
+        }
+    </div>
